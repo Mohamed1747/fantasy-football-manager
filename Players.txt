@@ -1,0 +1,48 @@
+Alisson Becker, 5.5, Goalkeeper, Liverpool
+Ederson Moraes, 5.5, Goalkeeper, Man City
+David Raya, 5.0, Goalkeeper, Arsenal
+Jordan Pickford, 4.5, Goalkeeper, Everton
+Nick Pope, 4.5, Goalkeeper, Newcastle
+Andre Onana, 4.5, Goalkeeper, Man United
+Matz Sels, 4.0, Goalkeeper, Nottm Forest
+Jose Sa, 4.0, Goalkeeper, Wolves
+Virgil van Dijk, 6.5, Defender, Liverpool
+Trent Alexander-Arnold, 7.5, Defender, Liverpool
+Andrew Robertson, 6.0, Defender, Liverpool
+William Saliba, 6.0, Defender, Arsenal
+Ben White, 5.5, Defender, Arsenal
+Josko Gvardiol, 6.0, Defender, Man City
+Kyle Walker, 5.0, Defender, Man City
+Reece James, 6.0, Defender, Chelsea
+Pedro Porro, 5.5, Defender, Spurs
+Micky van de Ven, 5.0, Defender, Spurs
+Kieran Trippier, 6.0, Defender, Newcastle
+Dan Burn, 4.5, Defender, Newcastle
+Levi Colwill, 5.0, Defender, Chelsea
+Kevin De Bruyne, 10.0, Midfielder, Man City
+Mohamed Salah, 13.0, Midfielder, Liverpool
+Bukayo Saka, 10.0, Midfielder, Arsenal
+Martin Odegaard, 8.5, Midfielder, Arsenal
+Phil Foden, 9.5, Midfielder, Man City
+Bernardo Silva, 7.0, Midfielder, Man City
+Bruno Fernandes, 8.5, Midfielder, Man United
+Cole Palmer, 10.5, Midfielder, Chelsea
+Enzo Fernandez, 7.0, Midfielder, Chelsea
+Son Heung-min, 9.0, Midfielder, Spurs
+James Maddison, 7.5, Midfielder, Spurs
+Anthony Gordon, 7.5, Midfielder, Newcastle
+Harvey Barnes, 6.5, Midfielder, Newcastle
+Morgan Rogers, 6.0, Midfielder, Aston Villa
+Jarrod Bowen, 7.5, Midfielder, West Ham
+Lucas Paqueta, 7.0, Midfielder, West Ham
+Erling Haaland, 15.0, Striker, Man City
+Darwin Nunez, 8.0, Striker, Liverpool
+Dominic Solanke, 7.5, Striker, Spurs
+Ollie Watkins, 9.0, Striker, Aston Villa
+Evan Ferguson, 6.5, Striker, Brighton
+Danny Welbeck, 6.0, Striker, Brighton
+Nicolas Jackson, 7.5, Striker, Chelsea
+Alexander Isak, 9.0, Striker, Newcastle
+Chris Wood, 6.5, Striker, Nottm Forest
+Callum Wilson, 7.0, Striker, Newcastle
+Richarlison, 7.0, Striker, Spurs
